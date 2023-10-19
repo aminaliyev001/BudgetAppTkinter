@@ -1,0 +1,29 @@
+{
+    "expenses": [
+        {
+            "id": "E002",
+            "Date": "2023-10-12",
+            "Name": "Amin",
+            "Description": "Library",
+            "Price": "250"
+        }
+    ],
+    "users": [
+        {
+            "id": "U001",
+            "username": "farida",
+            "password": "1234"
+        }
+    ],
+    "notes": [
+        {
+            "id": "N003",
+            "text": "dusa"
+        },
+        {
+            "id": "N004",
+            "text": "Sabah nese alinmalidi"
+        }
+    ],
+    "budget": 10000.0
+}
